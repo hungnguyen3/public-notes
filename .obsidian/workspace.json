@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "95167db490ae034f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab04bb3530bf2a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c755553600c55d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/SpringBoot & Spring Data JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73ab00bf5df5cde9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce3399e0abe740d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b45d4d6ece2795f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87f3aa5122d7961d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2078ca33df9a11fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c495325418fb935",
+    "type": "split",
+    "children": [
+      {
+        "id": "feec1b08543ed163",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5da291b4ed806a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/SpringBoot & Spring Data JPA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c4a0db7a3906802",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/SpringBoot & Spring Data JPA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b91d37046b0179a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "780ecf7bab4e1cee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/SpringBoot & Spring Data JPA.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "c755553600c55d62",
+  "lastOpenFiles": [
+    "Assets/Capture d’écran 2024-07-23 à 22.15.46.png",
+    "Java/SpringBoot & Spring Data JPA.md",
+    "Assets",
+    "Assets/Pasted image 20240724001748.png",
+    "Assets/Pasted image 20240724001728.png",
+    "Assets/Pasted image 20240724001421.png",
+    "Assets/Pasted image 20240724001344.png",
+    "Assets/Pasted image 20240724001049.png",
+    "Assets/Pasted image 20240724000832.png",
+    "Assets/Pasted image 20240724000028.png",
+    "Assets/Pasted image 20240723235131.png",
+    "Assets/Pasted image 20240723235045.png",
+    "Assets/Pasted image 20240723234942.png",
+    "Welcome.md",
+    "Java"
+  ]
+}
